@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Money-steward-website/static/css/main.a3ff2c85.chunk.css",
+    "main.js": "/Money-steward-website/static/js/main.13ba654e.chunk.js",
+    "main.js.map": "/Money-steward-website/static/js/main.13ba654e.chunk.js.map",
+    "runtime-main.js": "/Money-steward-website/static/js/runtime-main.a2706dba.js",
+    "runtime-main.js.map": "/Money-steward-website/static/js/runtime-main.a2706dba.js.map",
+    "static/js/2.de70d2d2.chunk.js": "/Money-steward-website/static/js/2.de70d2d2.chunk.js",
+    "static/js/2.de70d2d2.chunk.js.map": "/Money-steward-website/static/js/2.de70d2d2.chunk.js.map",
+    "static/js/3.59217798.chunk.js": "/Money-steward-website/static/js/3.59217798.chunk.js",
+    "static/js/3.59217798.chunk.js.map": "/Money-steward-website/static/js/3.59217798.chunk.js.map",
+    "index.html": "/Money-steward-website/index.html",
+    "static/css/main.a3ff2c85.chunk.css.map": "/Money-steward-website/static/css/main.a3ff2c85.chunk.css.map",
+    "static/js/2.de70d2d2.chunk.js.LICENSE.txt": "/Money-steward-website/static/js/2.de70d2d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2706dba.js",
+    "static/js/2.de70d2d2.chunk.js",
+    "static/css/main.a3ff2c85.chunk.css",
+    "static/js/main.13ba654e.chunk.js"
+  ]
+}
